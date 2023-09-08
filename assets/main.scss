@@ -1,0 +1,11 @@
+---
+---
+/* Override theme defaults */
+// change base font size
+$base-font-size: 18px !default;
+
+// change base font family
+$base-font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji" !default;
+
+/* load _sass/minima.scss */
+@import "minima";
